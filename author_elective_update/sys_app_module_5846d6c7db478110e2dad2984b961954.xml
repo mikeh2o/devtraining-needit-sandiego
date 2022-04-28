@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="NeedIt">0a6a5d22db870110e2dad2984b96198f</application>
+        <assessment display_value="Helpdesk Satisfaction Survey">cf6e97d35d371200964f58e4abb23f18</assessment>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>SEPARATOR</link_type>
+        <map_page/>
+        <mobile_title>testing </mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name/>
+        <order>400</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_58872_needit.needit_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-28 17:30:12</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5846d6c7db478110e2dad2984b961954</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>Testing</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_app_module_5846d6c7db478110e2dad2984b961954</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-28 17:41:46</sys_updated_on>
+        <timeline_page/>
+        <title>Testing</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>509b5ce9db4dcc5091232f17d49619cd</instance_id>
+        <instance_name>dev94537</instance_name>
+        <name>sys_app_module_5846d6c7db478110e2dad2984b961954</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="NeedIt">0a6a5d22db870110e2dad2984b96198f</application><assessment display_value="Helpdesk Satisfaction Survey">cf6e97d35d371200964f58e4abb23f18</assessment><device_type/><filter/><hint/><homepage/><image/><link_type>SEPARATOR</link_type><map_page/><mobile_title>testing </mobile_title><mobile_view_name>Mobile</mobile_view_name><name/><order>400</order><override_menu_roles>false</override_menu_roles><query/><report/><roles>x_58872_needit.needit_user</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-04-28 17:30:12</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>5846d6c7db478110e2dad2984b961954</sys_id><sys_mod_count>5</sys_mod_count><sys_name>Testing</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_app_module_5846d6c7db478110e2dad2984b961954</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-04-28 17:41:46</sys_updated_on><timeline_page/><title>Testing</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-1464069789</payload_hash>
+        <record_name>Testing</record_name>
+        <reverted_from/>
+        <source>3a3695eadb470110e2dad2984b96197c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-28 17:41:46</sys_created_on>
+        <sys_id>d109128bdb478110e2dad2984b961988</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1807143bc950000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-28 17:41:46</sys_updated_on>
+        <type>Module</type>
+        <update_guid>d909128b82478110d369b35357172587</update_guid>
+        <update_guid_history>d909128b82478110d369b35357172587:-1464069789,3ec8d28b064781104dbf89c827b07a77:677874665,bc08964b5847811014a804ae70a204bb:580029252,8de7920bd54781103c94581fe362b85e:-1149233815,d486dec7eb47811054a014de5ee6bab1:2041268807,fb56dec71047811052b34adffb143d6c:-1085533219</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Testing">cf8912cbdb478110e2dad2984b9619a3</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-28 17:44:05</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>00d331ec451f498180045abf817355d9</sys_id>
+        <sys_metadata>5846d6c7db478110e2dad2984b961954</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Testing</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_app_module_5846d6c7db478110e2dad2984b961954</sys_update_name>
+        <sys_update_version display_value="sys_app_module_5846d6c7db478110e2dad2984b961954">d109128bdb478110e2dad2984b961988</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-28 17:44:05</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
